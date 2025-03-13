@@ -150,7 +150,7 @@ Optional Query Parameters:
 
 | Name        | Role                   |
 |-------------|------------------------|
-| Pruthviraj  | Intern  |
+| Pruthviraj  | Intern                 |
 
 
 
