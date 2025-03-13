@@ -16,4 +16,3 @@ const DesignationSchema = new mongoose.Schema({
 }, { timestamps: true });
 
 module.exports = mongoose.model('Designation', DesignationSchema, 'designations');
-
